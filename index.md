@@ -2,6 +2,10 @@
 
 I am a computer engineering major at CSUF and I plan on graduting in 2028.
 
+## Computer Science Projects
+
+* My GitHub page is http://github.com/DanielBuen
+
 ## Favorite CPSC 120L Labs
 
 * Lab 2 
